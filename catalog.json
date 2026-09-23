@@ -2,7 +2,7 @@
     {
         "type": "plugin",
         "name": "advanced_extras",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/advanced-extras/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/advanced-extras/master/icon.png",
         "title": {
             "en": "Advanced Extras",
             "ar": "هيدر وفوتر إضافي متفدم"
@@ -19,13 +19,13 @@
         },
         "file": {
             "version": "1.0.1",
-            "url": "https://github.com/kleeja-official/advanced-extras/archive/1.0.1.zip"
+            "url": "https://github.com/kleeja/advanced-extras/archive/1.0.1.zip"
         }
     },
     {
         "type": "plugin",
         "name": "kj_amp_seo",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/kj-amp-seo/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-amp-seo/master/icon.png",
         "title": {
             "en": "KJ AMP SEO",
             "ar": "AMP سيو"
@@ -42,13 +42,13 @@
         },
         "file": {
             "version": "1.1.2",
-            "url": "https://github.com/kleeja-official/kj-amp-seo/archive/1.1.2.zip"
+            "url": "https://github.com/kleeja/kj-amp-seo/archive/1.1.2.zip"
         }
     },
     {
         "type": "plugin",
         "name": "kj_ban_admin",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/kj-ban-admin/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-ban-admin/master/icon.png",
         "title": {
             "en": "Kleeja Admin Firewall",
             "ar": "جدار أمني للوحة كليجا"
@@ -65,13 +65,13 @@
         },
         "file": {
             "version": "1.0",
-            "url": "https://github.com/kleeja-official/kj-ban-admin/archive/1.0.zip"
+            "url": "https://github.com/kleeja/kj-ban-admin/archive/1.0.zip"
         }
     },
     {
         "type": "plugin",
         "name": "kj_download_speed_limit",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/kj-download-speed-limit/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-download-speed-limit/master/icon.png",
         "title": {
             "en": "KJ Download Speed Limit",
             "ar": "تحديد سرعة التحميل"
@@ -88,13 +88,13 @@
         },
         "file": {
             "version": "1.1",
-            "url": "https://github.com/kleeja-official/kj-download-speed-limit/archive/1.1.zip"
+            "url": "https://github.com/kleeja/kj-download-speed-limit/archive/1.1.zip"
         }
     },
     {
         "type": "plugin",
         "name": "kj_ftp",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/kj-ftp/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-ftp/master/icon.png",
         "title": {
             "en": "Kleeja Multi-FTP Uploading",
             "ar": "تحميل FTP متعدد"
@@ -111,13 +111,13 @@
         },
         "file": {
             "version": "1.1.1",
-            "url": "https://github.com/kleeja-official/kj-ftp/archive/1.1.1.zip"
+            "url": "https://github.com/kleeja/kj-ftp/archive/1.1.1.zip"
         }
     },
     {
         "type": "plugin",
         "name": "kj_meta_seo",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/kj-meta-seo/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-meta-seo/master/icon.png",
         "title": {
             "en": "KJ Meta SEO",
             "ar": "ميتا سيو"
@@ -134,13 +134,13 @@
         },
         "file": {
             "version": "1.1.1",
-            "url": "https://github.com/kleeja-official/kj-meta-seo/archive/1.1.1.zip"
+            "url": "https://github.com/kleeja/kj-meta-seo/archive/1.1.1.zip"
         }
     },
     {
         "type": "plugin",
         "name": "kj_recaptcha",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/kj-recaptcha/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-recaptcha/master/icon.png",
         "title": {
             "en": "KJ reCaptcha",
             "ar": "كليجا ريكابتشا"
@@ -157,13 +157,13 @@
         },
         "file": {
             "version": "1.4",
-            "url": "https://github.com/kleeja-official/kj-recaptcha/archive/1.4.zip"
+            "url": "https://github.com/kleeja/kj-recaptcha/archive/1.4.zip"
         }
     },
     {
         "type": "plugin",
         "name": "kj_sitemap_seo",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/kj-sitemap-seo/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-sitemap-seo/master/icon.png",
         "title": {
             "en": "KJ SiteMap SEO",
             "ar": "كليجا سايت ماب سيو"
@@ -180,13 +180,13 @@
         },
         "file": {
             "version": "1.0.1",
-            "url": "https://github.com/kleeja-official/kj-sitemap-seo/archive/1.0.1.zip"
+            "url": "https://github.com/kleeja/kj-sitemap-seo/archive/1.0.1.zip"
         }
     },
     {
         "type": "plugin",
         "name": "kj_x_sendfile",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/kj-x-sendfile/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-x-sendfile/master/icon.png",
         "title": {
             "en": "Kleeja X SendFile",
             "ar": "كليجا إكس سيند فايل"
@@ -203,13 +203,13 @@
         },
         "file": {
             "version": "1.0",
-            "url": "https://github.com/kleeja-official/kj-x-sendfile/archive/1.0.zip"
+            "url": "https://github.com/kleeja/kj-x-sendfile/archive/1.0.zip"
         }
     },
     {
         "type": "plugin",
         "name": "klj_adfly",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/klj-adfly/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/klj-adfly/master/icon.png",
         "title": {
             "en": "adf.ly for Kleeja",
             "ar": "روابط adf.ly لكليجا"
@@ -226,13 +226,13 @@
         },
         "file": {
             "version": "1.2",
-            "url": "https://github.com/kleeja-official/klj-adfly/archive/1.2.zip"
+            "url": "https://github.com/kleeja/klj-adfly/archive/1.2.zip"
         }
     },
     {
         "type": "plugin",
         "name": "language_switch",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/language-switch/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/language-switch/master/icon.png",
         "title": {
             "en": "Language Switch",
             "ar": "تغيير اللغة"
@@ -249,13 +249,13 @@
         },
         "file": {
             "version": "1.1",
-            "url": "https://github.com/kleeja-official/language-switch/archive/1.1.zip"
+            "url": "https://github.com/kleeja/language-switch/archive/1.1.zip"
         }
     },
     {
         "type": "plugin",
         "name": "menu_toggle",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/menu-toggle/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/menu-toggle/master/icon.png",
         "title": {
             "en": "Menu Toggle",
             "ar": "عرض/إخفاء القوائم"
@@ -272,13 +272,13 @@
         },
         "file": {
             "version": "1.1.1",
-            "url": "https://github.com/kleeja-official/menu-toggle/archive/1.1.1.zip"
+            "url": "https://github.com/kleeja/menu-toggle/archive/1.1.1.zip"
         }
     },
     {
         "type": "plugin",
         "name": "pdf_viewer",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/pdf-viewer/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/pdf-viewer/master/icon.png",
         "title": {
             "en": "PDF Viewer",
             "ar": "عارض بي دي أف"
@@ -295,13 +295,13 @@
         },
         "file": {
             "version": "1.1",
-            "url": "https://github.com/kleeja-official/pdf-viewer/archive/1.1.zip"
+            "url": "https://github.com/kleeja/pdf-viewer/archive/1.1.zip"
         }
     },
     {
         "type": "plugin",
         "name": "rebrandly",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/rebrandly/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/rebrandly/master/icon.png",
         "title": {
             "en": "Rebrandly for Kleeja",
             "ar": "Rebrandly لكليجا"
@@ -318,13 +318,13 @@
         },
         "file": {
             "version": "1.0",
-            "url": "https://github.com/kleeja-official/rebrandly/archive/1.0.zip"
+            "url": "https://github.com/kleeja/rebrandly/archive/1.0.zip"
         }
     },
     {
         "type": "plugin",
         "name": "video_player",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/video-player/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/video-player/master/icon.png",
         "title": {
             "en": "Video & Audio Player",
             "ar": "مشغل فيديو وصوت"
@@ -341,13 +341,13 @@
         },
         "file": {
             "version": "1.1",
-            "url": "https://github.com/kleeja-official/video-player/archive/1.1.zip"
+            "url": "https://github.com/kleeja/video-player/archive/1.1.zip"
         }
     },
     {
         "type": "style",
         "name": "dragdrop",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/dragdrop/master/screenshot.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/dragdrop/master/screenshot.png",
         "title": {
             "en": "DragDrop",
             "ar": "الجر والاسقاط للتحميل"
@@ -366,13 +366,13 @@
         "plugins_required": "",
         "file": {
             "version": "1.0",
-            "url": "https://github.com/kleeja-official/dragdrop/archive/1.0.zip"
+            "url": "https://github.com/kleeja/dragdrop/archive/1.0.zip"
         }
     },
     {
         "type": "style",
         "name": "bootstrap_black",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/bootstrap-black/master/screenshot.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/bootstrap-black/master/screenshot.png",
         "title": {
             "en": "Bootstrap Black",
             "ar": "بوتسراب، النسخة السوداء"
@@ -391,13 +391,13 @@
         "plugins_required": "",
         "file": {
             "version": "1.0",
-            "url": "https://github.com/kleeja-official/bootstrap-black/archive/1.0.zip"
+            "url": "https://github.com/kleeja/bootstrap-black/archive/1.0.zip"
         }
     },
     {
         "type": "plugin",
         "name": "vbulletin_integration",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/vbulletin-integration/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/vbulletin-integration/master/icon.png",
         "title": {
             "en": "VBulletin Integration",
             "ar": "التكامل مع VBulletin"
@@ -414,13 +414,13 @@
         },
         "file": {
             "version": "1.0.4",
-            "url": "https://github.com/kleeja-official/vbulletin-integration/archive/1.0.4.zip"
+            "url": "https://github.com/kleeja/vbulletin-integration/archive/1.0.4.zip"
         }
     },
     {
         "type": "plugin",
         "name": "phpbb_integration",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/phpbb-integration/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/phpbb-integration/master/icon.png",
         "title": {
             "en": "phpBB Integration",
             "ar": "التكامل مع phpBB"
@@ -437,13 +437,13 @@
         },
         "file": {
             "version": "1.0.5",
-            "url": "https://github.com/kleeja-official/phpbb-integration/archive/1.0.5.zip"
+            "url": "https://github.com/kleeja/phpbb-integration/archive/1.0.5.zip"
         }
     },
     {
         "type": "plugin",
         "name": "advanced_watermark",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/advanced-watermark/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/advanced-watermark/master/icon.png",
         "title": {
             "en": "Advanced Watermark",
             "ar": "الختم على الصور المتطور"
@@ -460,13 +460,13 @@
         },
         "file": {
             "version": "1.1",
-            "url": "https://github.com/kleeja-official/advanced-watermark/archive/1.1.zip"
+            "url": "https://github.com/kleeja/advanced-watermark/archive/1.1.zip"
         }
     },
     {
         "type": "plugin",
         "name": "kleeja_payment",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/kleeja_payment/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kleeja_payment/master/icon.png",
         "title": {
             "en": "Kleeja Payment",
             "ar": "مدفوعات كليجا"
@@ -483,7 +483,7 @@
         },
         "file": {
             "version": "1.2.8",
-            "url": "https://github.com/kleeja-official/kleeja_payment/archive/1.2.8.zip"
+            "url": "https://github.com/kleeja/kleeja_payment/archive/1.2.8.zip"
         }
     },
     {
@@ -506,7 +506,7 @@
         },
         "file": {
             "version": "1.0",
-            "url": "https://github.com/kleeja-official/thumbs_generator/archive/1.0.zip"
+            "url": "https://github.com/kleeja/thumbs_generator/archive/1.0.zip"
         }
     },
     {
@@ -529,7 +529,7 @@
         },
         "file": {
             "version": "1.0.1",
-            "url": "https://github.com/kleeja-official/kj_comment/archive/1.0.1.zip"
+            "url": "https://github.com/kleeja/kj_comment/archive/1.0.1.zip"
         }
     },
     {
@@ -545,14 +545,14 @@
             "ar": "قم بشحن حسابات المستخدمين عند وجود اضافة مدفوعات كليجا"
         },
         "developer": "Kleeja Team",
-        "website": "https://github.com/kleeja-official/kjp_account_charger",
+        "website": "https://github.com/kleeja/kjp_account_charger",
         "kleeja_version": {
             "min": "3.1.5",
             "max": "3.9"
         },
         "file": {
             "version": "1.0.1",
-            "url": "https://github.com/kleeja-official/kjp_account_charger/archive/1.0.1.zip"
+            "url": "https://github.com/kleeja/kjp_account_charger/archive/1.0.1.zip"
         }
     },
     {
@@ -564,24 +564,24 @@
             "ar": "المتجر البديل"
         },
         "description": {
-            "en": "Alternative Store for Kleeja <a href='https://github.com/kleeja-official/alternative_store/releases/download/1.0/alternative_store.zip' target='_blank'>Click here to download it</a>",
-            "ar": "المتجر البديل لكليجا <a href='https://github.com/kleeja-official/alternative_store/releases/download/1.0/alternative_store.zip' target='_blank'>أضغط هنا للتحميل</a>"
+            "en": "Alternative Store for Kleeja <a href='https://github.com/kleeja/alternative_store/releases/download/1.0/alternative_store.zip' target='_blank'>Click here to download it</a>",
+            "ar": "المتجر البديل لكليجا <a href='https://github.com/kleeja/alternative_store/releases/download/1.0/alternative_store.zip' target='_blank'>أضغط هنا للتحميل</a>"
         },
         "developer": "Kleeja Team",
-        "website": "https://github.com/kleeja-official/alternative_store",
+        "website": "https://github.com/kleeja/alternative_store",
         "kleeja_version": {
             "min": "3.1.1",
             "max": "3.9"
         },
         "file": {
             "version": "1.1",
-            "url": "https://github.com/kleeja-official/alternative_store/archive/1.1.zip"
+            "url": "https://github.com/kleeja/alternative_store/archive/1.1.zip"
         }
     },
     {
         "type": "style",
         "name": "kleeja_return",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/kleeja_return/master/screenshot.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kleeja_return/master/screenshot.png",
         "title": {
             "en": "Kleeja Return",
             "ar": "عودة كليجا"
@@ -591,20 +591,20 @@
             "ar": "ستايل عصري بتأثير زجاجي مبني على Tailwind CSS، يدعم الوضعين الفاتح والداكن، من تطوير فريق كليجا"
         },
         "developer": "Kleeja Team",
-        "website": "https://github.com/kleeja-official/kleeja_return",
+        "website": "https://github.com/kleeja/kleeja_return",
         "kleeja_version": {
             "min": "3.2.4",
             "max": "3.9"
         },
         "file": {
             "version": "1.2",
-            "url": "https://github.com/kleeja-official/kleeja_return/archive/1.2.zip"
+            "url": "https://github.com/kleeja/kleeja_return/archive/1.2.zip"
         }
     },
     {
         "type": "plugin",
         "name": "kj_smtp_mailer",
-        "icon": "https://raw.githubusercontent.com/kleeja-official/kj_smtp_mailer/master/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj_smtp_mailer/master/icon.png",
         "title": {
             "en": "Kleeja SMTP Mailer",
             "ar": "برنامج إرسال البريد الإلكتروني SMTP من Kleeja'"
@@ -621,7 +621,7 @@
         },
         "file": {
             "version": "1.0",
-            "url": "https://github.com/kleeja-official/kj_smtp_mailer/releases/download/1.0/kj_smtp_mailer-1.0.zip"
+            "url": "https://github.com/kleeja/kj_smtp_mailer/releases/download/1.0/kj_smtp_mailer-1.0.zip"
         }
     }
 ]

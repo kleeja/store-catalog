@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "kj_amp_seo",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/kj-amp-seo/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/kj-amp-seo/master/icon.png",
     "title": {
         "en": "KJ AMP SEO",
         "ar": "AMP سيو"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.1.2",
-        "url": "https://github.com/kleeja-official/kj-amp-seo/archive/1.1.2.zip"
+        "url": "https://github.com/kleeja/kj-amp-seo/archive/1.1.2.zip"
     }
 } satisfies CatalogItem

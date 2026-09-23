@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.0.1",
-        "url": "https://github.com/kleeja-official/kj_comment/archive/1.0.1.zip"
+        "url": "https://github.com/kleeja/kj_comment/archive/1.0.1.zip"
     }
 } satisfies CatalogItem

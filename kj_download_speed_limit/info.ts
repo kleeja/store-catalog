@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "kj_download_speed_limit",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/kj-download-speed-limit/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/kj-download-speed-limit/master/icon.png",
     "title": {
         "en": "KJ Download Speed Limit",
         "ar": "تحديد سرعة التحميل"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.1",
-        "url": "https://github.com/kleeja-official/kj-download-speed-limit/archive/1.1.zip"
+        "url": "https://github.com/kleeja/kj-download-speed-limit/archive/1.1.zip"
     }
 } satisfies CatalogItem

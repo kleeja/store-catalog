@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "menu_toggle",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/menu-toggle/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/menu-toggle/master/icon.png",
     "title": {
         "en": "Menu Toggle",
         "ar": "عرض/إخفاء القوائم"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.1.1",
-        "url": "https://github.com/kleeja-official/menu-toggle/archive/1.1.1.zip"
+        "url": "https://github.com/kleeja/menu-toggle/archive/1.1.1.zip"
     }
 } satisfies CatalogItem

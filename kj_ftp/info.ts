@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "kj_ftp",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/kj-ftp/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/kj-ftp/master/icon.png",
     "title": {
         "en": "Kleeja Multi-FTP Uploading",
         "ar": "تحميل FTP متعدد"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.1.1",
-        "url": "https://github.com/kleeja-official/kj-ftp/archive/1.1.1.zip"
+        "url": "https://github.com/kleeja/kj-ftp/archive/1.1.1.zip"
     }
 } satisfies CatalogItem

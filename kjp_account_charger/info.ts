@@ -13,13 +13,13 @@ export default {
         "ar": "قم بشحن حسابات المستخدمين عند وجود اضافة مدفوعات كليجا"
     },
     "developer": "Kleeja Team",
-    "website": "https://github.com/kleeja-official/kjp_account_charger",
+    "website": "https://github.com/kleeja/kjp_account_charger",
     "kleeja_version": {
         "min": "3.1.5",
         "max": "3.9"
     },
     "file": {
         "version": "1.0.1",
-        "url": "https://github.com/kleeja-official/kjp_account_charger/archive/1.0.1.zip"
+        "url": "https://github.com/kleeja/kjp_account_charger/archive/1.0.1.zip"
     }
 } satisfies CatalogItem

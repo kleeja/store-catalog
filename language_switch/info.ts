@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "language_switch",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/language-switch/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/language-switch/master/icon.png",
     "title": {
         "en": "Language Switch",
         "ar": "تغيير اللغة"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.1",
-        "url": "https://github.com/kleeja-official/language-switch/archive/1.1.zip"
+        "url": "https://github.com/kleeja/language-switch/archive/1.1.zip"
     }
 } satisfies CatalogItem

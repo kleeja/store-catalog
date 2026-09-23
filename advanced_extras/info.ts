@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "advanced_extras",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/advanced-extras/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/advanced-extras/master/icon.png",
     "title": {
         "en": "Advanced Extras",
         "ar": "هيدر وفوتر إضافي متفدم"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.0.1",
-        "url": "https://github.com/kleeja-official/advanced-extras/archive/1.0.1.zip"
+        "url": "https://github.com/kleeja/advanced-extras/archive/1.0.1.zip"
     }
 } satisfies CatalogItem

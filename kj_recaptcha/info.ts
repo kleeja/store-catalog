@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "kj_recaptcha",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/kj-recaptcha/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/kj-recaptcha/master/icon.png",
     "title": {
         "en": "KJ reCaptcha",
         "ar": "كليجا ريكابتشا"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.4",
-        "url": "https://github.com/kleeja-official/kj-recaptcha/archive/1.4.zip"
+        "url": "https://github.com/kleeja/kj-recaptcha/archive/1.4.zip"
     }
 } satisfies CatalogItem

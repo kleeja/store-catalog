@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "advanced_watermark",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/advanced-watermark/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/advanced-watermark/master/icon.png",
     "title": {
         "en": "Advanced Watermark",
         "ar": "الختم على الصور المتطور"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.1",
-        "url": "https://github.com/kleeja-official/advanced-watermark/archive/1.1.zip"
+        "url": "https://github.com/kleeja/advanced-watermark/archive/1.1.zip"
     }
 } satisfies CatalogItem

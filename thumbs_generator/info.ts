@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.0",
-        "url": "https://github.com/kleeja-official/thumbs_generator/archive/1.0.zip"
+        "url": "https://github.com/kleeja/thumbs_generator/archive/1.0.zip"
     }
 } satisfies CatalogItem

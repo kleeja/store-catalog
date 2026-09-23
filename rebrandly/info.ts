@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "rebrandly",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/rebrandly/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/rebrandly/master/icon.png",
     "title": {
         "en": "Rebrandly for Kleeja",
         "ar": "Rebrandly لكليجا"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.0",
-        "url": "https://github.com/kleeja-official/rebrandly/archive/1.0.zip"
+        "url": "https://github.com/kleeja/rebrandly/archive/1.0.zip"
     }
 } satisfies CatalogItem

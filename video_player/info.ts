@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "video_player",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/video-player/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/video-player/master/icon.png",
     "title": {
         "en": "Video & Audio Player",
         "ar": "مشغل فيديو وصوت"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.1",
-        "url": "https://github.com/kleeja-official/video-player/archive/1.1.zip"
+        "url": "https://github.com/kleeja/video-player/archive/1.1.zip"
     }
 } satisfies CatalogItem

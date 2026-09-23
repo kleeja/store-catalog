@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "klj_adfly",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/klj-adfly/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/klj-adfly/master/icon.png",
     "title": {
         "en": "adf.ly for Kleeja",
         "ar": "روابط adf.ly لكليجا"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.2",
-        "url": "https://github.com/kleeja-official/klj-adfly/archive/1.2.zip"
+        "url": "https://github.com/kleeja/klj-adfly/archive/1.2.zip"
     }
 } satisfies CatalogItem

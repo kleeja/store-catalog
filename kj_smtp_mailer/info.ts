@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "kj_smtp_mailer",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/kj_smtp_mailer/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/kj_smtp_mailer/master/icon.png",
     "title": {
         "en": "Kleeja SMTP Mailer",
         "ar": "برنامج إرسال البريد الإلكتروني SMTP من Kleeja'"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.0",
-        "url": "https://github.com/kleeja-official/kj_smtp_mailer/releases/download/1.0/kj_smtp_mailer-1.0.zip",
+        "url": "https://github.com/kleeja/kj_smtp_mailer/releases/download/1.0/kj_smtp_mailer-1.0.zip",
     }
 } satisfies CatalogItem

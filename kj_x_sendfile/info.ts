@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "kj_x_sendfile",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/kj-x-sendfile/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/kj-x-sendfile/master/icon.png",
     "title": {
         "en": "Kleeja X SendFile",
         "ar": "كليجا إكس سيند فايل"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.0",
-        "url": "https://github.com/kleeja-official/kj-x-sendfile/archive/1.0.zip"
+        "url": "https://github.com/kleeja/kj-x-sendfile/archive/1.0.zip"
     }
 } satisfies CatalogItem

@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "kj_ban_admin",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/kj-ban-admin/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/kj-ban-admin/master/icon.png",
     "title": {
         "en": "Kleeja Admin Firewall",
         "ar": "جدار أمني للوحة كليجا"
@@ -20,6 +20,6 @@ export default {
     },
     "file": {
         "version": "1.0",
-        "url": "https://github.com/kleeja-official/kj-ban-admin/archive/1.0.zip"
+        "url": "https://github.com/kleeja/kj-ban-admin/archive/1.0.zip"
     }
 } satisfies CatalogItem

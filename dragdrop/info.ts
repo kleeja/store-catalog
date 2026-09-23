@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "style",
     "name": "dragdrop",
-    "icon": "https://raw.githubusercontent.com/kleeja-official/dragdrop/master/screenshot.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/dragdrop/master/screenshot.png",
     "title": {
         "en": "DragDrop",
         "ar": "الجر والاسقاط للتحميل"
@@ -22,6 +22,6 @@ export default {
     "plugins_required": "",
     "file": {
         "version": "1.0",
-        "url": "https://github.com/kleeja-official/dragdrop/archive/1.0.zip"
+        "url": "https://github.com/kleeja/dragdrop/archive/1.0.zip"
     }
 } satisfies CatalogItem

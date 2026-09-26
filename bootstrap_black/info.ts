@@ -21,7 +21,7 @@ export default {
     "depend_on": "bootstrap",
     "plugins_required": "",
     "file": {
-        "version": "1.1",
-        "url": "https://github.com/kleeja/bootstrap-black/archive/1.1.zip"
+        "version": "1.2",
+        "url": "https://github.com/kleeja/bootstrap-black/archive/1.2.zip"
     }
 } satisfies CatalogItem

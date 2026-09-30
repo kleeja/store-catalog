@@ -1,5 +1,5 @@
 /**
- * Types for the entries in `catalog.json`.
+ * Types for the entries in `kleeja-4-catalog.json`.
  */
 
 /** Kind of catalog entry. */
@@ -45,5 +45,5 @@ export interface CatalogItem {
     plugins_required?: string;
 }
 
-/** The whole `catalog.json` document. */
+/** The whole `kleeja-4-catalog.json` document. */
 export type Catalog = CatalogItem[];

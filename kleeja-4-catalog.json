@@ -1,0 +1,604 @@
+[
+    {
+        "type": "plugin",
+        "name": "advanced_extras",
+        "icon": "https://raw.githubusercontent.com/kleeja/advanced-extras/master/icon.png",
+        "title": {
+            "en": "Advanced Extras",
+            "ar": "هيدر وفوتر إضافي متفدم"
+        },
+        "description": {
+            "en": "An advanced interface for the extra templates feature",
+            "ar": "واجهة متقدمة لصفحة هيدر وفوتر إضافيين"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.0.1",
+            "url": "https://github.com/kleeja/advanced-extras/archive/1.0.1.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "kj_amp_seo",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-amp-seo/master/icon.png",
+        "title": {
+            "en": "KJ AMP SEO",
+            "ar": "AMP سيو"
+        },
+        "description": {
+            "en": "Add AMP support to download pages to enhance SEO for Kleeja",
+            "ar": "دعم الـ AMP لصفحات التحميل لدعم السيو في كليجا"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.1.2",
+            "url": "https://github.com/kleeja/kj-amp-seo/archive/1.1.2.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "kj_ban_admin",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-ban-admin/master/icon.png",
+        "title": {
+            "en": "Kleeja Admin Firewall",
+            "ar": "جدار أمني للوحة كليجا"
+        },
+        "description": {
+            "en": "Ban a user after so many invalid login attempts to Kleeja control panel",
+            "ar": "حظر أي مستخدم يحاول الدخول للوحة كليجا بعد عدة محاولات خاطئة"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.0",
+            "url": "https://github.com/kleeja/kj-ban-admin/archive/1.0.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "kj_download_speed_limit",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-download-speed-limit/master/icon.png",
+        "title": {
+            "en": "KJ Download Speed Limit",
+            "ar": "تحديد سرعة التحميل"
+        },
+        "description": {
+            "en": "Limit files download speed for each group",
+            "ar": "تحديد سرعة تحميل الملفات لكل مجموعة"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.1",
+            "url": "https://github.com/kleeja/kj-download-speed-limit/archive/1.1.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "kj_ftp",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-ftp/master/icon.png",
+        "title": {
+            "en": "Kleeja Multi-FTP Uploading",
+            "ar": "تحميل FTP متعدد"
+        },
+        "description": {
+            "en": "Add Multi-FTP support to Kleeja",
+            "ar": "إضافة دعم التحميل لعدة FTP  في كليجا"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.1.1",
+            "url": "https://github.com/kleeja/kj-ftp/archive/1.1.1.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "kj_meta_seo",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-meta-seo/master/icon.png",
+        "title": {
+            "en": "KJ Meta SEO",
+            "ar": "ميتا سيو"
+        },
+        "description": {
+            "en": "Meta fields plugin to enhance SEO for Kleeja",
+            "ar": "إضافة الميتا الدسكربشن و الكييورزد لكليجا"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.1.1",
+            "url": "https://github.com/kleeja/kj-meta-seo/archive/1.1.1.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "kj_recaptcha",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-recaptcha/master/icon.png",
+        "title": {
+            "en": "KJ reCaptcha",
+            "ar": "كليجا ريكابتشا"
+        },
+        "description": {
+            "en": "Add reCaptcha to Kleeja",
+            "ar": "إضافة ريكابتشا لكليجا"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.4",
+            "url": "https://github.com/kleeja/kj-recaptcha/archive/1.4.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "kj_sitemap_seo",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-sitemap-seo/master/icon.png",
+        "title": {
+            "en": "KJ SiteMap SEO",
+            "ar": "كليجا سايت ماب سيو"
+        },
+        "description": {
+            "en": "Generate a sitemap and promote your content by notifying (ping) the search engine once at every new content addition to Kleeja",
+            "ar": "إنشاء سايت ماب لكليجا وإمكانية بينق محركات البحث بعد كل إضافة محتوى جديد"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.0.1",
+            "url": "https://github.com/kleeja/kj-sitemap-seo/archive/1.0.1.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "kj_x_sendfile",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj-x-sendfile/master/icon.png",
+        "title": {
+            "en": "Kleeja X SendFile",
+            "ar": "كليجا إكس سيند فايل"
+        },
+        "description": {
+            "en": "Enable x-sendfile or X-Accel-Redirect for both Apache or Nginx for better performance.",
+            "ar": "كليجا إكس سيند فايل"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.0",
+            "url": "https://github.com/kleeja/kj-x-sendfile/archive/1.0.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "language_switch",
+        "icon": "https://raw.githubusercontent.com/kleeja/language-switch/master/icon.png",
+        "title": {
+            "en": "Language Switch",
+            "ar": "تغيير اللغة"
+        },
+        "description": {
+            "en": "A language switch box in the top of every page",
+            "ar": "صندوق تغيير لغة في أعلى كل صفحة"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.1",
+            "url": "https://github.com/kleeja/language-switch/archive/1.1.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "menu_toggle",
+        "icon": "https://raw.githubusercontent.com/kleeja/menu-toggle/master/icon.png",
+        "title": {
+            "en": "Menu Toggle",
+            "ar": "عرض/إخفاء القوائم"
+        },
+        "description": {
+            "en": "Ability to hide/show Kleeja Menu items",
+            "ar": "القدرة على عرض/إخفاء عناصر قائمة كليجا"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.1.1",
+            "url": "https://github.com/kleeja/menu-toggle/archive/1.1.1.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "pdf_viewer",
+        "icon": "https://raw.githubusercontent.com/kleeja/pdf-viewer/master/icon.png",
+        "title": {
+            "en": "PDF Viewer",
+            "ar": "عارض بي دي أف"
+        },
+        "description": {
+            "en": "Integrate a PDF viewer in download page",
+            "ar": "عرض عارض ملفات بي دي اف في صفحة التحميل"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.1",
+            "url": "https://github.com/kleeja/pdf-viewer/archive/1.1.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "rebrandly",
+        "icon": "https://raw.githubusercontent.com/kleeja/rebrandly/master/icon.png",
+        "title": {
+            "en": "Rebrandly for Kleeja",
+            "ar": "Rebrandly لكليجا"
+        },
+        "description": {
+            "en": "Generate a short links using Rebrandly service",
+            "ar": "إنشاء روابط قصيرة من خدمة Rebrandly "
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.0",
+            "url": "https://github.com/kleeja/rebrandly/archive/1.0.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "video_player",
+        "icon": "https://raw.githubusercontent.com/kleeja/video-player/master/icon.png",
+        "title": {
+            "en": "Video & Audio Player",
+            "ar": "مشغل فيديو وصوت"
+        },
+        "description": {
+            "en": "Integrate a video player in download page",
+            "ar": "عرض مشغل فيديو في صفحة التحميل"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.1",
+            "url": "https://github.com/kleeja/video-player/archive/1.1.zip"
+        }
+    },
+    {
+        "type": "style",
+        "name": "dragdrop",
+        "icon": "https://raw.githubusercontent.com/kleeja/dragdrop/master/screenshot.png",
+        "title": {
+            "en": "DragDrop",
+            "ar": "الجر والاسقاط للتحميل"
+        },
+        "description": {
+            "en": "Based on Bootstrap style, has Drag & Drop feature",
+            "ar": "مبني على ستايل بوت ستراب الافتراضي، لديه ميزة الجر والاسقاط للتحميل"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "depend_on": "bootstrap",
+        "plugins_required": "",
+        "file": {
+            "version": "1.0",
+            "url": "https://github.com/kleeja/dragdrop/archive/1.0.zip"
+        }
+    },
+    {
+        "type": "style",
+        "name": "bootstrap_black",
+        "icon": "https://raw.githubusercontent.com/kleeja/bootstrap-black/master/screenshot.png",
+        "title": {
+            "en": "Bootstrap Black",
+            "ar": "بوتسراب، النسخة السوداء"
+        },
+        "description": {
+            "en": "Based on Bootstarp style, black version",
+            "ar": "مبني على بوتسراب، النسخة السوداء"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.0",
+            "max": "3.9"
+        },
+        "depend_on": "bootstrap",
+        "plugins_required": "",
+        "file": {
+            "version": "1.2",
+            "url": "https://github.com/kleeja/bootstrap-black/archive/1.2.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "vbulletin_integration",
+        "icon": "https://raw.githubusercontent.com/kleeja/vbulletin-integration/master/icon.png",
+        "title": {
+            "en": "VBulletin Integration",
+            "ar": "التكامل مع VBulletin"
+        },
+        "description": {
+            "en": "VBulletin Membership Integration",
+            "ar": "التكامل مع عضويات VBulletin"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.1",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.0.4",
+            "url": "https://github.com/kleeja/vbulletin-integration/archive/1.0.4.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "phpbb_integration",
+        "icon": "https://raw.githubusercontent.com/kleeja/phpbb-integration/master/icon.png",
+        "title": {
+            "en": "phpBB Integration",
+            "ar": "التكامل مع phpBB"
+        },
+        "description": {
+            "en": "phpBB Membership Integration",
+            "ar": "التكامل مع عضويات phpBB"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.1",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.0.5",
+            "url": "https://github.com/kleeja/phpbb-integration/archive/1.0.5.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "advanced_watermark",
+        "icon": "https://raw.githubusercontent.com/kleeja/advanced-watermark/master/icon.png",
+        "title": {
+            "en": "Advanced Watermark",
+            "ar": "الختم على الصور المتطور"
+        },
+        "description": {
+            "en": "Advanced watermark features",
+            "ar": "خصائص الختم على الصور المتقدمة"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.1",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.1",
+            "url": "https://github.com/kleeja/advanced-watermark/archive/1.1.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "kleeja_payment",
+        "icon": "https://raw.githubusercontent.com/kleeja/kleeja_payment/master/icon.png",
+        "title": {
+            "en": "Kleeja Payment",
+            "ar": "مدفوعات كليجا"
+        },
+        "description": {
+            "en": "Selling Files and Premium Groups",
+            "ar": "بيع الملفات والمجموعات المميزة"
+        },
+        "developer": "Kleeja Team",
+        "website": "https://kleeja.net",
+        "kleeja_version": {
+            "min": "3.1.5",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.2.8",
+            "url": "https://github.com/kleeja/kleeja_payment/archive/1.2.8.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "thumbs_generator",
+        "icon": "./Masmak/images/plugin.png",
+        "title": {
+            "en": "Thumbnails Generator",
+            "ar": "توليد الصور المصغرة المفقودة"
+        },
+        "description": {
+            "en": "A maintenance plugin, to generate missing thumbnails.",
+            "ar": "اضافة صيانة عند الحاجة, لإنشاء الصور المصغرة المفقودة"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.1",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.0",
+            "url": "https://github.com/kleeja/thumbs_generator/archive/1.0.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "kj_comment",
+        "icon": "./Masmak/images/plugin.png",
+        "title": {
+            "en": "KJ Comment",
+            "ar": "تعليقات كليجا"
+        },
+        "description": {
+            "en": "Add Comments To Files",
+            "ar": "إضافة تعليقات على الملفات"
+        },
+        "developer": "Kleeja Team",
+        "website": "",
+        "kleeja_version": {
+            "min": "3.1",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.1.1",
+            "url": "https://github.com/kleeja/kj_comment/archive/1.1.1.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "kjp_account_charger",
+        "icon": "./Masmak/images/plugin.png",
+        "title": {
+            "en": "KJPay Account Charger",
+            "ar": "تعبئة حساب"
+        },
+        "description": {
+            "en": "Charge user accounts when KJPay exists and the group have recaive profits permissions",
+            "ar": "قم بشحن حسابات المستخدمين عند وجود اضافة مدفوعات كليجا"
+        },
+        "developer": "Kleeja Team",
+        "website": "https://github.com/kleeja/kjp_account_charger",
+        "kleeja_version": {
+            "min": "3.1.5",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.0.1",
+            "url": "https://github.com/kleeja/kjp_account_charger/archive/1.0.1.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "alternative_store",
+        "icon": "./Masmak/images/plugin.png",
+        "title": {
+            "en": "Alternative Store",
+            "ar": "المتجر البديل"
+        },
+        "description": {
+            "en": "Alternative Store for Kleeja <a href='https://github.com/kleeja/alternative_store/releases/download/1.0/alternative_store.zip' target='_blank'>Click here to download it</a>",
+            "ar": "المتجر البديل لكليجا <a href='https://github.com/kleeja/alternative_store/releases/download/1.0/alternative_store.zip' target='_blank'>أضغط هنا للتحميل</a>"
+        },
+        "developer": "Kleeja Team",
+        "website": "https://github.com/kleeja/alternative_store",
+        "kleeja_version": {
+            "min": "3.1.1",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.1",
+            "url": "https://github.com/kleeja/alternative_store/archive/1.1.zip"
+        }
+    },
+    {
+        "type": "style",
+        "name": "kleeja_return",
+        "icon": "https://raw.githubusercontent.com/kleeja/kleeja_return/master/screenshot.png",
+        "title": {
+            "en": "Kleeja Return",
+            "ar": "عودة كليجا"
+        },
+        "description": {
+            "en": "A modern, glassy Tailwind CSS style with light and dark modes, built by the Kleeja team",
+            "ar": "ستايل عصري بتأثير زجاجي مبني على Tailwind CSS، يدعم الوضعين الفاتح والداكن، من تطوير فريق كليجا"
+        },
+        "developer": "Kleeja Team",
+        "website": "https://github.com/kleeja/kleeja_return",
+        "kleeja_version": {
+            "min": "3.2.4",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.2",
+            "url": "https://github.com/kleeja/kleeja_return/archive/1.2.zip"
+        }
+    },
+    {
+        "type": "plugin",
+        "name": "kj_smtp_mailer",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj_smtp_mailer/master/icon.png",
+        "title": {
+            "en": "Kleeja SMTP Mailer",
+            "ar": "برنامج إرسال البريد الإلكتروني SMTP من Kleeja'"
+        },
+        "description": {
+            "en": "Send mails through your own SMTP server instead of the PHP mail function",
+            "ar": "إرسال رسائل البريد الإلكتروني باستخدام خادم SMTP مخصص بدلًا من دالة mail في PHP',"
+        },
+        "developer": "Kleeja Team",
+        "website": "https://kleeja.net",
+        "kleeja_version": {
+            "min": "3.2.6",
+            "max": "3.9"
+        },
+        "file": {
+            "version": "1.0",
+            "url": "https://github.com/kleeja/kj_smtp_mailer/releases/download/1.0/kj_smtp_mailer-1.0.zip"
+        }
+    }
+]

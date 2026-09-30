@@ -1,5 +1,5 @@
 /**
- * Rebuilds `catalog.json` from every `<name>/info.ts` in the repository.
+ * Rebuilds `kleeja-4-catalog.json` from every `<name>/info.ts` in the repository.
  *
  * Run with: npx tsx scripts/build-catalog.ts
  */
@@ -10,7 +10,9 @@ import { pathToFileURL } from 'node:url'
 import type { Catalog, CatalogItem } from '../types'
 
 const root = resolve(import.meta.dirname, '..')
-const catalogPath = join(root, 'catalog.json')
+const catalogPath = join(root, 'kleeja-4-catalog.json')
+/** The old catalog. It is left untouched and only seeds the item order until `kleeja-4-catalog.json` exists. */
+const legacyCatalogPath = join(root, 'catalog.json')
 
 /** Folders that never hold a catalog item. */
 const ignored = new Set(['node_modules', 'scripts'])
@@ -36,11 +38,11 @@ async function readItems(): Promise<CatalogItem[]> {
     return items
 }
 
-/** The catalog as it is committed right now, or null when it is missing or unreadable. */
-async function currentCatalog(): Promise<{ names: string[], eol: string } | null> {
-    if (!existsSync(catalogPath)) return null
+/** The catalog at `path` as it is committed right now, or null when it is missing or unreadable. */
+async function readCatalog(path: string): Promise<{ names: string[], eol: string } | null> {
+    if (!existsSync(path)) return null
     try {
-        const raw = await readFile(catalogPath, 'utf8')
+        const raw = await readFile(path, 'utf8')
         return {
             names: (JSON.parse(raw) as Catalog).map(item => item.name),
             // Keep whichever line ending the file already uses.
@@ -54,7 +56,7 @@ async function currentCatalog(): Promise<{ names: string[], eol: string } | null
 const items = await readItems()
 if (items.length === 0) throw new Error('no <name>/info.ts files found, refusing to write an empty catalog')
 
-const current = await currentCatalog()
+const current = await readCatalog(catalogPath) ?? await readCatalog(legacyCatalogPath)
 const order = current?.names ?? []
 const rank = (item: CatalogItem) => {
     const index = order.indexOf(item.name)
@@ -66,4 +68,4 @@ items.sort((a, b) => rank(a) - rank(b) || a.name.localeCompare(b.name))
 
 const json = JSON.stringify(items, null, 4)
 await writeFile(catalogPath, current?.eol === '\r\n' ? json.replace(/\n/g, '\r\n') : json)
-console.log(`wrote ${items.length} items to catalog.json`)
+console.log(`wrote ${items.length} items to kleeja-4-catalog.json`)

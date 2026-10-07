@@ -3,23 +3,23 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "advanced_extras",
-    "icon": "https://raw.githubusercontent.com/kleeja/advanced-extras/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/advanced_extras/main/icon.png",
     "title": {
         "en": "Advanced Extras",
         "ar": "هيدر وفوتر إضافي متفدم"
     },
     "description": {
-        "en": "An advanced interface for the extra templates feature",
-        "ar": "واجهة متقدمة لصفحة هيدر وفوتر إضافيين"
+        "en": "An extra header and footer for each page of the site, besides the ones shown on all pages",
+        "ar": "هيدر وفوتر إضافيان لكل صفحة من صفحات الموقع، إلى جانب ما يظهر في جميع الصفحات"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/advanced_extras",
     "kleeja_version": {
-        "min": "3.0",
-        "max": "3.9"
+        "min": "4.0.0",
+        "max": "4.9"
     },
     "file": {
-        "version": "1.0.1",
-        "url": "https://github.com/kleeja/advanced-extras/archive/1.0.1.zip"
+        "version": "1.1",
+        "url": "https://github.com/kleeja/advanced_extras/archive/1.1.zip"
     }
 } satisfies CatalogItem

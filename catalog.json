@@ -2,10 +2,10 @@
     {
         "type": "plugin",
         "name": "advanced_extras",
-        "icon": "https://raw.githubusercontent.com/kleeja/advanced-extras/63f4e5c5b271d3054f4910a6d07f3f2791442419/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/advanced_extras/63f4e5c5b271d3054f4910a6d07f3f2791442419/icon.png",
         "title": {
             "en": "Advanced Extras",
-            "ar": "هيدر وفوتر إضافي متفدم"
+            "ar": "هيدر وفوتر إضافي متقدم"
         },
         "description": {
             "en": "An advanced interface for the extra templates feature",

@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "style",
     "name": "bootstrap_black",
-    "icon": "https://raw.githubusercontent.com/kleeja/bootstrap-black/master/screenshot.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/bootstrap_black/main/screenshot.png",
     "title": {
         "en": "Bootstrap Black",
         "ar": "بوتسراب، النسخة السوداء"
@@ -15,13 +15,13 @@ export default {
     "developer": "Kleeja Team",
     "website": "",
     "kleeja_version": {
-        "min": "3.0",
-        "max": "3.9"
+        "min": "4.0.0",
+        "max": "4.9.9"
     },
     "depend_on": "bootstrap",
     "plugins_required": "",
     "file": {
-        "version": "1.2",
-        "url": "https://github.com/kleeja/bootstrap-black/archive/1.2.zip"
+        "version": "2.0",
+        "url": "https://github.com/kleeja/bootstrap_black/archive/2.0.zip"
     }
 } satisfies CatalogItem

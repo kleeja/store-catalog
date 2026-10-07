@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "style",
     "name": "dragdrop",
-    "icon": "https://raw.githubusercontent.com/kleeja/dragdrop/master/screenshot.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/dragdrop/main/screenshot.png",
     "title": {
         "en": "DragDrop",
         "ar": "الجر والاسقاط للتحميل"
@@ -13,15 +13,15 @@ export default {
         "ar": "مبني على ستايل بوت ستراب الافتراضي، لديه ميزة الجر والاسقاط للتحميل"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://kleeja.net",
     "kleeja_version": {
-        "min": "3.0",
-        "max": "3.9"
+        "min": "4.0.0",
+        "max": "4.9.9"
     },
     "depend_on": "bootstrap",
     "plugins_required": "",
     "file": {
-        "version": "1.0",
-        "url": "https://github.com/kleeja/dragdrop/archive/1.0.zip"
+        "version": "2.0",
+        "url": "https://github.com/kleeja/dragdrop/archive/2.0.zip"
     }
 } satisfies CatalogItem

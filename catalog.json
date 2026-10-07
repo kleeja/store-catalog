@@ -25,7 +25,7 @@
     {
         "type": "plugin",
         "name": "kj_amp_seo",
-        "icon": "https://raw.githubusercontent.com/kleeja/kj-amp-seo/2ef1eb02fb28171b4a9c814b9ceb04abf37e4ab0/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj_amp_seo/2ef1eb02fb28171b4a9c814b9ceb04abf37e4ab0/icon.png",
         "title": {
             "en": "KJ AMP SEO",
             "ar": "AMP سيو"
@@ -42,7 +42,7 @@
         },
         "file": {
             "version": "1.1.2",
-            "url": "https://github.com/kleeja/kj-amp-seo/archive/1.1.2.zip"
+            "url": "https://github.com/kleeja/kj_amp_seo/archive/1.1.2.zip"
         }
     },
     {

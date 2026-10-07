@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "advanced_watermark",
-    "icon": "https://raw.githubusercontent.com/kleeja/advanced-watermark/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/advanced-watermark/main/icon.png",
     "title": {
         "en": "Advanced Watermark",
         "ar": "الختم على الصور المتطور"
@@ -13,13 +13,13 @@ export default {
         "ar": "خصائص الختم على الصور المتقدمة"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://kleeja.net",
     "kleeja_version": {
-        "min": "3.1",
-        "max": "3.9"
+        "min": "4.0.0",
+        "max": "4.9"
     },
     "file": {
-        "version": "1.1",
-        "url": "https://github.com/kleeja/advanced-watermark/archive/1.1.zip"
+        "version": "1.2",
+        "url": "https://github.com/kleeja/advanced_watermark/archive/1.2.zip"
     }
 } satisfies CatalogItem

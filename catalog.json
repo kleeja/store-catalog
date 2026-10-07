@@ -420,7 +420,7 @@
     {
         "type": "plugin",
         "name": "advanced_watermark",
-        "icon": "https://raw.githubusercontent.com/kleeja/advanced-watermark/f2a7f31fc6fca147932efd68b92960e6f527b48d/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/advanced_watermark/f2a7f31fc6fca147932efd68b92960e6f527b48d/icon.png",
         "title": {
             "en": "Advanced Watermark",
             "ar": "الختم على الصور المتطور"
@@ -437,7 +437,7 @@
         },
         "file": {
             "version": "1.1",
-            "url": "https://github.com/kleeja/advanced-watermark/archive/1.1.zip"
+            "url": "https://github.com/kleeja/advanced_watermark/archive/1.1.zip"
         }
     },
     {

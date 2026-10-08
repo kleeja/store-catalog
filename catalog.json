@@ -48,7 +48,7 @@
     {
         "type": "plugin",
         "name": "kj_ban_admin",
-        "icon": "https://raw.githubusercontent.com/kleeja/kj-ban-admin/4908001d9e7b9d7a48c019dfb719900b2fa2238a/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj_ban_admin/4908001d9e7b9d7a48c019dfb719900b2fa2238a/icon.png",
         "title": {
             "en": "Kleeja Admin Firewall",
             "ar": "جدار أمني للوحة كليجا"
@@ -60,12 +60,12 @@
         "developer": "Kleeja Team",
         "website": "",
         "kleeja_version": {
-            "min": "3.0",
-            "max": "3.9"
+            "min": "4.0.0",
+            "max": "4.9.9"
         },
         "file": {
-            "version": "1.0",
-            "url": "https://github.com/kleeja/kj-ban-admin/archive/1.0.zip"
+            "version": "1.1",
+            "url": "https://github.com/kleeja/kj_ban_admin/archive/1.1.zip"
         }
     },
     {

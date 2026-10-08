@@ -71,7 +71,7 @@
     {
         "type": "plugin",
         "name": "kj_download_speed_limit",
-        "icon": "https://raw.githubusercontent.com/kleeja/kj-download-speed-limit/2395f6a190b0afc41510a5f707e5697fd2c78f09/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj_download_speed_limit/2395f6a190b0afc41510a5f707e5697fd2c78f09/icon.png",
         "title": {
             "en": "KJ Download Speed Limit",
             "ar": "تحديد سرعة التحميل"
@@ -88,7 +88,7 @@
         },
         "file": {
             "version": "1.1",
-            "url": "https://github.com/kleeja/kj-download-speed-limit/archive/1.1.zip"
+            "url": "https://github.com/kleeja/kj_download_speed_limit/archive/1.1.zip"
         }
     },
     {

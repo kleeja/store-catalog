@@ -94,7 +94,7 @@
     {
         "type": "plugin",
         "name": "kj_ftp",
-        "icon": "https://raw.githubusercontent.com/kleeja/kj-ftp/15061dd1b60bd13f332018b613554ece93594142/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj_ftp/15061dd1b60bd13f332018b613554ece93594142/icon.png",
         "title": {
             "en": "Kleeja Multi-FTP Uploading",
             "ar": "تحميل FTP متعدد"
@@ -111,7 +111,7 @@
         },
         "file": {
             "version": "1.1.1",
-            "url": "https://github.com/kleeja/kj-ftp/archive/1.1.1.zip"
+            "url": "https://github.com/kleeja/kj_ftp/archive/1.1.1.zip"
         }
     },
     {

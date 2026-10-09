@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "kj_sitemap_seo",
-    "icon": "https://raw.githubusercontent.com/kleeja/kj-sitemap-seo/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/kj_sitemap_seo/main/icon.png",
     "title": {
         "en": "KJ SiteMap SEO",
         "ar": "كليجا سايت ماب سيو"
@@ -15,11 +15,11 @@ export default {
     "developer": "Kleeja Team",
     "website": "",
     "kleeja_version": {
-        "min": "3.0",
-        "max": "3.9"
+        "min": "4.0.0",
+        "max": "4.9.9"
     },
     "file": {
-        "version": "1.0.1",
-        "url": "https://github.com/kleeja/kj-sitemap-seo/archive/1.0.1.zip"
+        "version": "2.0.0",
+        "url": "https://github.com/kleeja/kj_sitemap_seo/archive/2.0.0.zip"
     }
 } satisfies CatalogItem

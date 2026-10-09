@@ -163,7 +163,7 @@
     {
         "type": "plugin",
         "name": "kj_sitemap_seo",
-        "icon": "https://raw.githubusercontent.com/kleeja/kj-sitemap-seo/f7f00ccbb482e6f37637aee48f93066b82a7ea89/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj_sitemap_seo/f7f00ccbb482e6f37637aee48f93066b82a7ea89/icon.png",
         "title": {
             "en": "KJ SiteMap SEO",
             "ar": "كليجا سايت ماب سيو"
@@ -180,7 +180,7 @@
         },
         "file": {
             "version": "1.0.1",
-            "url": "https://github.com/kleeja/kj-sitemap-seo/archive/1.0.1.zip"
+            "url": "https://github.com/kleeja/kj_sitemap_seo/archive/1.0.1.zip"
         }
     },
     {

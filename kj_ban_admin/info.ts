@@ -15,8 +15,8 @@ export default {
     "developer": "Kleeja Team",
     "website": "",
     "kleeja_version": {
-        "min": "3.0",
-        "max": "3.9"
+        "min": "4.0.0",
+        "max": "4.9.9"
     },
     "file": {
         "version": "1.0",

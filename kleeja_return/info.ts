@@ -16,7 +16,7 @@ export default {
     "website": "https://github.com/kleeja/kleeja_return",
     "kleeja_version": {
         "min": "3.2.4",
-        "max": "3.9"
+        "max": "4.9.9"
     },
     "file": {
         "version": "1.2",

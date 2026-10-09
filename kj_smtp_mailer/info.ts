@@ -15,11 +15,11 @@ export default {
     "developer": "Kleeja Team",
     "website": "https://github.com/kleeja/kj_smtp_mailer",
     "kleeja_version": {
-        "min": "3.2.6",
+        "min": "4.0.0",
         "max": "4.9.9"
     },
     "file": {
-        "version": "1.1",
-        "url": "https://github.com/kleeja/kj_smtp_mailer/releases/download/1.0/kj_smtp_mailer-1.1.zip",
+        "version": "1.3",
+        "url": "https://github.com/kleeja/kj_smtp_mailer/releases/download/1.3/kj_smtp_mailer-1.3.zip",
     }
 } satisfies CatalogItem

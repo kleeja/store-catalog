@@ -19,7 +19,7 @@ export default {
         "max": "4.9.9"
     },
     "file": {
-        "version": "2.0",
-        "url": "https://github.com/kleeja/video_player/archive/2.0.zip"
+        "version": "2.1",
+        "url": "https://github.com/kleeja/video_player/archive/2.1.zip"
     }
 } satisfies CatalogItem

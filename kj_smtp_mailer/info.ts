@@ -13,7 +13,7 @@ export default {
         "ar": "إرسال رسائل البريد الإلكتروني باستخدام خادم SMTP مخصص بدلًا من دالة mail في PHP',"
     },
     "developer": "Kleeja Team",
-    "website": "https://kleeja.net",
+    "website": "https://github.com/kleeja/kj_smtp_mailer",
     "kleeja_version": {
         "min": "3.2.6",
         "max": "4.9.9"

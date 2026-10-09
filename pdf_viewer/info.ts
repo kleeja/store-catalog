@@ -13,7 +13,7 @@ export default {
         "ar": "عرض عارض ملفات بي دي اف في صفحة التحميل"
     },
     "developer": "Kleeja Team",
-    "website": "https://kleeja.net",
+    "website": "https://github.com/kleeja/pdf_viewer",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9.9"

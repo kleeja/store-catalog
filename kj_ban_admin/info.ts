@@ -13,7 +13,7 @@ export default {
         "ar": "حظر أي مستخدم يحاول الدخول للوحة كليجا بعد عدة محاولات خاطئة"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/kj_ban_admin",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9.9"

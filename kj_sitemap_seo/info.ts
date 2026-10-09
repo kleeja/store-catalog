@@ -13,7 +13,7 @@ export default {
         "ar": "إنشاء سايت ماب لكليجا وإمكانية بينق محركات البحث بعد كل إضافة محتوى جديد"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/kj_sitemap_seo",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9.9"

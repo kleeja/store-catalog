@@ -13,7 +13,7 @@ export default {
         "ar":"تُنشئ لكل صفحة تحميل نسخة AMP سريعة تجدها محركات البحث، مع أزرار مشاركة وإعلانات AdSense اختيارية."
     },
     "developer": "Kleeja Team",
-    "website": "https://kleeja.net",
+    "website": "https://github.com/kleeja/kj_amp_seo",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9.9"

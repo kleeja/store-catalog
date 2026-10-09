@@ -13,7 +13,7 @@ export default {
         "ar": "التكامل مع عضويات VBulletin"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/vbulletin-integration",
     "kleeja_version": {
         "min": "3.1",
         "max": "3.9"

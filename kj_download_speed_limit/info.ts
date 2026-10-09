@@ -13,7 +13,7 @@ export default {
         "ar": "تحديد سرعة تحميل الملفات لكل مجموعة"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/kj_download_speed_limit",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9.9"

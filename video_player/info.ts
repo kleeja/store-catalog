@@ -13,7 +13,7 @@ export default {
         "ar": "عرض مشغل فيديو في صفحة التحميل"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/video_player",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9.9"

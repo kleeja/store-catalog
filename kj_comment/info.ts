@@ -13,7 +13,7 @@ export default {
         "ar": "إضافة تعليقات على الملفات"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/kj_comment",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9.9"

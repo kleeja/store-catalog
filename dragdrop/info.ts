@@ -13,7 +13,7 @@ export default {
         "ar": "مبني على ستايل بوت ستراب الافتراضي، لديه ميزة الجر والاسقاط للتحميل"
     },
     "developer": "Kleeja Team",
-    "website": "https://kleeja.net",
+    "website": "https://github.com/kleeja/dragdrop",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9.9"

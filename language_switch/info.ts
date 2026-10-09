@@ -13,7 +13,7 @@ export default {
         "ar": "صندوق تغيير لغة في أعلى كل صفحة"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/language_switch",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9.9"

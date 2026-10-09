@@ -13,7 +13,7 @@ export default {
         "ar": "مبني على بوتسراب، النسخة السوداء"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/bootstrap_black",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9.9"

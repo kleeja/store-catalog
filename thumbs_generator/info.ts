@@ -13,7 +13,7 @@ export default {
         "ar": "اضافة صيانة عند الحاجة, لإنشاء الصور المصغرة المفقودة"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/thumbs_generator",
     "kleeja_version": {
         "min": "3.1",
         "max": "3.9"

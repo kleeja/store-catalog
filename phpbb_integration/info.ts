@@ -13,7 +13,7 @@ export default {
         "ar": "التكامل مع عضويات phpBB"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/phpbb-integration",
     "kleeja_version": {
         "min": "3.1",
         "max": "3.9"

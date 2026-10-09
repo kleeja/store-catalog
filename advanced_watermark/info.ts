@@ -13,7 +13,7 @@ export default {
         "ar": "خصائص الختم على الصور المتقدمة"
     },
     "developer": "Kleeja Team",
-    "website": "https://kleeja.net",
+    "website": "https://github.com/kleeja/advanced_watermark",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9"

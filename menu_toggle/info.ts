@@ -13,7 +13,7 @@ export default {
         "ar": "القدرة على عرض/إخفاء عناصر قائمة كليجا"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/menu-toggle",
     "kleeja_version": {
         "min": "3.0",
         "max": "3.9"

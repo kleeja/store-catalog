@@ -13,7 +13,7 @@ export default {
         "ar": "بيع الملفات والمجموعات المميزة"
     },
     "developer": "Kleeja Team",
-    "website": "https://kleeja.net",
+    "website": "https://github.com/kleeja/kleeja_payment",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9.9"

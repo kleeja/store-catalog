@@ -13,7 +13,7 @@ export default {
         "ar": "إضافة دعم التحميل لعدة FTP  في كليجا"
     },
     "developer": "Kleeja Team",
-    "website": "",
+    "website": "https://github.com/kleeja/kj-ftp",
     "kleeja_version": {
         "min": "3.0",
         "max": "3.9"

@@ -13,7 +13,7 @@ export default {
         "ar": "إضافة الميتا الدسكربشن و الكييورزد لكليجا"
     },
     "developer": "Kleeja Team",
-    "website": "https://kleeja.net",
+    "website": "https://github.com/kleeja/kj_meta_seo",
     "kleeja_version": {
         "min": "4.0.0",
         "max": "4.9.9"

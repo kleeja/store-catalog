@@ -209,7 +209,7 @@
     {
         "type": "plugin",
         "name": "language_switch",
-        "icon": "https://raw.githubusercontent.com/kleeja/language-switch/1049cce95950c85d6309f39de043a7b1bbe887d3/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/language_switch/1049cce95950c85d6309f39de043a7b1bbe887d3/icon.png",
         "title": {
             "en": "Language Switch",
             "ar": "تغيير اللغة"
@@ -226,7 +226,7 @@
         },
         "file": {
             "version": "1.1",
-            "url": "https://github.com/kleeja/language-switch/archive/1.1.zip"
+            "url": "https://github.com/kleeja/language_switch/archive/1.1.zip"
         }
     },
     {

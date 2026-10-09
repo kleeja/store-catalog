@@ -301,7 +301,7 @@
     {
         "type": "plugin",
         "name": "video_player",
-        "icon": "https://raw.githubusercontent.com/kleeja/video-player/653beb0c089ffa7630062a4d953291b0b1992ada/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/video_player/653beb0c089ffa7630062a4d953291b0b1992ada/icon.png",
         "title": {
             "en": "Video & Audio Player",
             "ar": "مشغل فيديو وصوت"
@@ -318,7 +318,7 @@
         },
         "file": {
             "version": "1.1",
-            "url": "https://github.com/kleeja/video-player/archive/1.1.zip"
+            "url": "https://github.com/kleeja/video_player/archive/1.1.zip"
         }
     },
     {

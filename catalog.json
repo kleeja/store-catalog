@@ -140,7 +140,7 @@
     {
         "type": "plugin",
         "name": "kj_recaptcha",
-        "icon": "https://raw.githubusercontent.com/kleeja/kj-recaptcha/5c332f3ee4ac7a19f944f98162994379149b0dee/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj_recaptcha/5c332f3ee4ac7a19f944f98162994379149b0dee/icon.png",
         "title": {
             "en": "KJ reCaptcha",
             "ar": "كليجا ريكابتشا"
@@ -157,7 +157,7 @@
         },
         "file": {
             "version": "1.4",
-            "url": "https://github.com/kleeja/kj-recaptcha/archive/1.4.zip"
+            "url": "https://github.com/kleeja/kj_recaptcha/archive/1.4.zip"
         }
     },
     {

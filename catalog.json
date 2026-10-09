@@ -186,7 +186,7 @@
     {
         "type": "plugin",
         "name": "kj_x_sendfile",
-        "icon": "https://raw.githubusercontent.com/kleeja/kj-x-sendfile/d6facb6bd657d89426e03ade4fe0d3fd369d8cb9/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kj_x_sendfile/d6facb6bd657d89426e03ade4fe0d3fd369d8cb9/icon.png",
         "title": {
             "en": "Kleeja X SendFile",
             "ar": "كليجا إكس سيند فايل"
@@ -203,7 +203,7 @@
         },
         "file": {
             "version": "1.0",
-            "url": "https://github.com/kleeja/kj-x-sendfile/archive/1.0.zip"
+            "url": "https://github.com/kleeja/kj_x_sendfile/archive/1.0.zip"
         }
     },
     {

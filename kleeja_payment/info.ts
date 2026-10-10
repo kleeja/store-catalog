@@ -19,7 +19,7 @@ export default {
         "max": "4.9.9"
     },
     "file": {
-        "version": "2.0.0",
-        "url": "https://github.com/kleeja/kleeja_payment/archive/2.0.0.zip"
+        "version": "2.0.4",
+        "url": "https://github.com/kleeja/kleeja_payment/releases/download/2.0.4/kleeja_payment-2.0.4.zip"
     }
 } satisfies CatalogItem

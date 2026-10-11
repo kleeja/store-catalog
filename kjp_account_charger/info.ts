@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "kjp_account_charger",
-    "icon": "./Masmak/images/plugin.png",
+    "icon": "./Damask/images/plugin.png",
     "title": {
         "en": "KJPay Account Charger",
         "ar": "تعبئة حساب"

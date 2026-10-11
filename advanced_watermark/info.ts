@@ -16,7 +16,7 @@ export default {
     "website": "https://github.com/kleeja/advanced_watermark",
     "kleeja_version": {
         "min": "4.0.0",
-        "max": "4.9"
+        "max": "4.9.9"
     },
     "file": {
         "version": "1.2",

@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "style",
     "name": "kleeja_return",
-    "icon": "https://raw.githubusercontent.com/kleeja/kleeja_return/master/screenshot.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/kleeja_return/main/screenshot.png",
     "title": {
         "en": "Kleeja Return",
         "ar": "عودة كليجا"

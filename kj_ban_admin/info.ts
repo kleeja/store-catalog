@@ -19,7 +19,7 @@ export default {
         "max": "4.9.9"
     },
     "file": {
-        "version": "1.0",
-        "url": "https://github.com/kleeja/kj_ban_admin/archive/1.0.zip"
+        "version": "1.1",
+        "url": "https://github.com/kleeja/kj_ban_admin/archive/1.1.zip"
     }
 } satisfies CatalogItem

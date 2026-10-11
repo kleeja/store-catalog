@@ -15,7 +15,7 @@
         "website": "https://github.com/kleeja/advanced_extras",
         "kleeja_version": {
             "min": "4.0.0",
-            "max": "4.9"
+            "max": "4.9.9"
         },
         "file": {
             "version": "1.1",
@@ -64,8 +64,8 @@
             "max": "4.9.9"
         },
         "file": {
-            "version": "1.0",
-            "url": "https://github.com/kleeja/kj_ban_admin/archive/1.0.zip"
+            "version": "1.1",
+            "url": "https://github.com/kleeja/kj_ban_admin/archive/1.1.zip"
         }
     },
     {
@@ -433,7 +433,7 @@
         "website": "https://github.com/kleeja/advanced_watermark",
         "kleeja_version": {
             "min": "4.0.0",
-            "max": "4.9"
+            "max": "4.9.9"
         },
         "file": {
             "version": "1.2",
@@ -512,7 +512,7 @@
     {
         "type": "plugin",
         "name": "kjp_account_charger",
-        "icon": "./Masmak/images/plugin.png",
+        "icon": "./Damask/images/plugin.png",
         "title": {
             "en": "KJPay Account Charger",
             "ar": "تعبئة حساب"
@@ -535,7 +535,7 @@
     {
         "type": "style",
         "name": "kleeja_return",
-        "icon": "https://raw.githubusercontent.com/kleeja/kleeja_return/master/screenshot.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/kleeja_return/main/screenshot.png",
         "title": {
             "en": "Kleeja Return",
             "ar": "عودة كليجا"

@@ -19,7 +19,7 @@ export default {
         "max": "4.9.9"
     },
     "file": {
-        "version": "1.4",
-        "url": "https://github.com/kleeja/kj_smtp_mailer/releases/download/1.4/kj_smtp_mailer-1.4.zip",
+        "version": "1.5",
+        "url": "https://github.com/kleeja/kj_smtp_mailer/releases/download/1.5/kj_smtp_mailer-1.5.zip",
     }
 } satisfies CatalogItem

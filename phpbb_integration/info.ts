@@ -3,7 +3,7 @@ import type { CatalogItem } from "../types"
 export default {
     "type": "plugin",
     "name": "phpbb_integration",
-    "icon": "https://raw.githubusercontent.com/kleeja/phpbb-integration/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/kleeja/phpbb_integration/main/icon.png",
     "title": {
         "en": "phpBB Integration",
         "ar": "التكامل مع phpBB"
@@ -13,13 +13,13 @@ export default {
         "ar": "التكامل مع عضويات phpBB"
     },
     "developer": "Kleeja Team",
-    "website": "https://github.com/kleeja/phpbb-integration",
+    "website": "https://github.com/kleeja/phpbb_integration",
     "kleeja_version": {
-        "min": "3.1",
-        "max": "3.9"
+        "min": "4.0.0",
+        "max": "4.9.9"
     },
     "file": {
-        "version": "1.0.5",
-        "url": "https://github.com/kleeja/phpbb-integration/archive/1.0.5.zip"
+        "version": "2.0",
+        "url": "https://github.com/kleeja/phpbb_integration/archive/2.0.zip"
     }
 } satisfies CatalogItem

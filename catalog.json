@@ -397,7 +397,7 @@
     {
         "type": "plugin",
         "name": "phpbb_integration",
-        "icon": "https://raw.githubusercontent.com/kleeja/phpbb-integration/22446cddaccfbd02336be36dd008348dd9b9faab/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/phpbb_integration/22446cddaccfbd02336be36dd008348dd9b9faab/icon.png",
         "title": {
             "en": "phpBB Integration",
             "ar": "التكامل مع phpBB"
@@ -414,7 +414,7 @@
         },
         "file": {
             "version": "1.0.5",
-            "url": "https://github.com/kleeja/phpbb-integration/archive/1.0.5.zip"
+            "url": "https://github.com/kleeja/phpbb_integration/archive/1.0.5.zip"
         }
     },
     {

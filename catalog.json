@@ -374,7 +374,7 @@
     {
         "type": "plugin",
         "name": "vbulletin_integration",
-        "icon": "https://raw.githubusercontent.com/kleeja/vbulletin-integration/6c733c478d2a39691e85cf0cda96353a02cea1c9/icon.png",
+        "icon": "https://raw.githubusercontent.com/kleeja/vbulletin_integration/6c733c478d2a39691e85cf0cda96353a02cea1c9/icon.png",
         "title": {
             "en": "VBulletin Integration",
             "ar": "التكامل مع VBulletin"
@@ -391,7 +391,7 @@
         },
         "file": {
             "version": "1.0.4",
-            "url": "https://github.com/kleeja/vbulletin-integration/archive/1.0.4.zip"
+            "url": "https://github.com/kleeja/vbulletin_integration/archive/1.0.4.zip"
         }
     },
     {

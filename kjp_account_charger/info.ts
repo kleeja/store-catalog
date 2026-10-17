@@ -5,8 +5,8 @@ export default {
     "name": "kjp_account_charger",
     "icon": "./Damask/images/plugin.png",
     "title": {
-        "en": "KJPay Account Charger",
-        "ar": "تعبئة حساب"
+        "en": "Account Top-up for Kleeja Payment",
+        "ar": "شحن الرصيد لنظام كليجة للدفع الإلكتروني"
     },
     "description": {
         "en": "Charge user accounts when KJPay exists and the group have recaive profits permissions",
@@ -15,11 +15,11 @@ export default {
     "developer": "Kleeja Team",
     "website": "https://github.com/kleeja/kjp_account_charger",
     "kleeja_version": {
-        "min": "3.1.5",
-        "max": "3.9"
+        "min": "4.0.0",
+        "max": "4.9.9"
     },
     "file": {
-        "version": "1.0.1",
-        "url": "https://github.com/kleeja/kjp_account_charger/archive/1.0.1.zip"
+        "version": "2.0",
+        "url": "https://github.com/kleeja/kjp_account_charger/archive/2.0.zip"
     }
 } satisfies CatalogItem

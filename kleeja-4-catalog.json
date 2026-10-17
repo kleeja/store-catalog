@@ -277,29 +277,6 @@
     },
     {
         "type": "plugin",
-        "name": "rebrandly",
-        "icon": "https://raw.githubusercontent.com/kleeja/rebrandly/master/icon.png",
-        "title": {
-            "en": "Rebrandly for Kleeja",
-            "ar": "Rebrandly لكليجا"
-        },
-        "description": {
-            "en": "Generate a short links using Rebrandly service",
-            "ar": "إنشاء روابط قصيرة من خدمة Rebrandly "
-        },
-        "developer": "Kleeja Team",
-        "website": "https://github.com/kleeja/rebrandly",
-        "kleeja_version": {
-            "min": "3.0",
-            "max": "3.9"
-        },
-        "file": {
-            "version": "1.0",
-            "url": "https://github.com/kleeja/rebrandly/archive/1.0.zip"
-        }
-    },
-    {
-        "type": "plugin",
         "name": "video_player",
         "icon": "https://raw.githubusercontent.com/kleeja/video_player/main/icon.png",
         "title": {
